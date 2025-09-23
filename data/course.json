@@ -1,0 +1,37 @@
+{
+  "term": "Spring",
+  "year": "2024",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "3b13d06c-86e8-4f6c-8a91-a3974c36a92e",
+      "ef28c3f1-24de-4d67-a946-76fcd03b2d79",
+      "6293751f-39e6-4fb9-9933-50098aea1b0d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3cc4fefa-af95-4322-b0ed-cb363140a146",
+    "website": "defining-real-world-problems-with-the-dis-method-describe-inquire-state"
+  },
+  "course_title": "Defining Real-World Problems With the D.I.S. Method: Describe, Inquire, State",
+  "hide_download": false,
+  "course_description": "This course introduces the D.I.S. method to structure and define real-world problems. The D.I.S., which stands for \u201cDescribe, Inquire, State,\" is a domain-agnostic method for structuring (or defining) ill-structured problems.",
+  "department_numbers": [
+    "SP"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.SP-001",
+  "learning_resource_types": [],
+  "site_uid": "6bb3dc97-b231-4b97-a611-d7dd18fe997d",
+  "site_short_id": "res.sp-001-spring-2024",
+  "site_url_path": "courses/res-sp-001-defining-real-world-problems-with-the-d-i-s-method-describe-inquire-state-spring-2024"
+}

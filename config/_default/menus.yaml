@@ -1,0 +1,17 @@
+leftnav:
+- identifier: eb69af5b-2cbe-4cd5-9426-22c81edba1c9
+  name: Introduction
+  pageRef: /pages/introduction
+  weight: 10
+- identifier: 1c5106cc-a9b7-4f7d-95f2-bec1a246a511
+  name: Step 1 Create Your Problem Description
+  pageRef: /pages/step-1-create-your-problem-description
+  weight: 20
+- identifier: fea3f708-528a-46e0-8b36-e850065155dc
+  name: Step 2 Create Your Problem Case
+  pageRef: /pages/step-2-create-your-problem-case
+  weight: 30
+- identifier: 9f1f910b-ea2e-4b4d-be28-7596bc7886cb
+  name: Step 3 Create Your Problem Statement
+  pageRef: /pages/step-3-create-your-problem-statement
+  weight: 40
