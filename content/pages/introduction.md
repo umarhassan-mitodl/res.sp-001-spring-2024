@@ -2,10 +2,12 @@
 content_type: page
 description: 'This page introduces the D.I.S. method. '
 draft: false
+hide_download: true
+hide_download_original: null
 title: Introduction
 uid: eb69af5b-2cbe-4cd5-9426-22c81edba1c9
 ---
-Real-world problems are often ill-structured{{% resource_link "164c2254-1c82-451c-97f3-20bbf6b73974" "<sup>\[1\]</sup>" %}}, which means they display the following characteristics:
+Real-world problems are often ill-structured[<sup>\[1\]</sup>](https://ocw-studio.odl.mit.edu/sites/defining-real-world-problems-with-the-dis-method-describe-inquire-state/type/page/new/?size=0#_ftn1), which means they display the following characteristics:
 
 - They lack a clear scope.
 - They lack clear criteria for what is a useful solution or desired endpoint; there's no single "correct" answer.
@@ -26,6 +28,6 @@ Using this guide, you will learn how to work through the following steps:
     2. Create a problem statement using a generative text tool.
     3. Assess the quality of your problem statement with or without using a generative text tool, based on a detailed assessment rubric.
 
-**If you would like to share your experience of the D.I.S. method with us, please fill out this** {{% resource_link "0af0e282-3064-4ac7-b763-34797ac08c99" "**short survey**" %}}**. Your feedback is important to us so we can continually improve.**
+**If you would like to share your experience of the D.I.S. method with us, please fill out this** [**short survey**](https://docs.google.com/forms/d/e/1FAIpQLScPjVlGe6lJFM8s2dbJsLP2jef1snx-7cI5bkH9pC0jCb9pSQ/viewform?usp=sf_link)**. Your feedback is important to us so we can continually improve.**
 
-{{% resource_link "36c4e52a-95f1-40a9-a2fb-75d2598bde69" "<sup>\[1\]</sup>" %}} {{% resource_link "eecc29a9-e0af-46d1-8803-73a208794e83" "David H. Jonassen, “Toward a Design Theory of Problem Solving,” *Educational Technology Research and Development* 48, no. 4 (December 1, 2000): 63–85, https://doi.org/10.1007/BF02300500." %}}
+[<sup>\[1\]</sup>](https://ocw-studio.odl.mit.edu/sites/defining-real-world-problems-with-the-dis-method-describe-inquire-state/type/page/new/?size=0#_ftnref1) [David H. Jonassen, “Toward a Design Theory of Problem Solving,” *Educational Technology Research and Development* 48, no. 4 (December 1, 2000): 63–85, https://doi.org/10.1007/BF02300500.](https://www.zotero.org/google-docs/?HFrHxX)

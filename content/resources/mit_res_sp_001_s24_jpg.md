@@ -7,10 +7,10 @@ file_size: 629819
 file_type: image/jpeg
 image_metadata:
   caption: 'Students are working on the Open Cities project of the U.S. Agency for
-    International Development. (Photo by {{% resource_link "c0a044cc-5886-405d-a630-0adf742d551a"
-    "Jessica McConnell Burt/GWU" %}}, courtesy of USAID on Flickr. License: CC BY-NC.)'
-  credit: 'Photo by {{% resource_link "c0a044cc-5886-405d-a630-0adf742d551a" "Jessica
-    McConnell Burt/GWU" %}}, courtesy of USAID on Flickr. License: CC BY-NC'
+    International Development. (Photo by [Jessica McConnell Burt/GWU](https://www.flickr.com/photos/usaid_images/11712673254/in/photostream/),
+    courtesy of USAID on Flickr. License: CC BY-NC.)'
+  credit: 'Photo by [Jessica McConnell Burt/GWU](https://www.flickr.com/photos/usaid_images/11712673254/in/photostream/),
+    courtesy of USAID on Flickr. License: CC BY-NC'
   image-alt: four college students working on their laptops at a desk in the library
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
