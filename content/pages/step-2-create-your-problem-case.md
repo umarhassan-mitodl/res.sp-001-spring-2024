@@ -21,10 +21,10 @@ The five questions:
 4. When does the problem occur for the PSG?
 5. Why does the problem occur for the PSG?
 
-**For optimal results, use the provided** [**template for a problem case**](https://docs.google.com/document/d/1U374gzbrRehpbvij6iGd3XXX5GUefrjoQMigSIOAQT4/edit?usp=sharing)**.**
+**For optimal results, use the provided** {{% resource_link "54e6a963-2e0f-4fa4-a312-a25d581932d5" "**template for a problem case**" %}}**.**
 
-For good practice on how to research your problem for the problem case, see these [detailed guidelines](https://docs.google.com/document/d/1Gj9MO1CYfBLL3KK7OaryRnLCks3Cq4QO5G4wT89gxjE/edit?usp=sharing).
+For good practice on how to research your problem for the problem case, see these {{% resource_link "7137da51-44c8-4c5d-a61b-fed4ea091d6b" "detailed guidelines" %}}.
 
-See also this [sample problem case](https://docs.google.com/document/d/1cqXES6s1J2TuFvW-3FRiF-S7XALz4kH-/edit?usp=sharing&ouid=111389324098950553084&rtpof=true&sd=true) (full document). Please note this is an example of a good problem case, not a perfect one.
+See also this {{% resource_link "c110936a-6054-4cb1-8db6-89ab8edce5d0" "sample problem case" %}} (full document). Please note this is an example of a good problem case, not a perfect one.
 
-Once you complete your problem case, you can assess it for problem structuring (how well the case follows the D.I.S. method) and for problem understanding (how correct the case is). You can use a generative text tool like ChatGPT to assess problem structuring effectively, but not problem understanding, which requires an expert for assessment. Be sure to read the detailed [assessment guidelines and instructions](https://docs.google.com/document/d/1xh_Lgee7DsFtPGnDTnYsXmmF0p-2OG6h9cQIZ7GaJ4E/edit?usp=sharing) on how to use generative text tools to do it. Note that the assessment rubrics for the problem case were designed for the template provided above and may not be as reliable if you use a different template for your problem case.
+Once you complete your problem case, you can assess it for problem structuring (how well the case follows the D.I.S. method) and for problem understanding (how correct the case is). You can use a generative text tool like ChatGPT to assess problem structuring effectively, but not problem understanding, which requires an expert for assessment. Be sure to read the detailed {{% resource_link "11cbd740-e9cf-4a0b-b046-b9dd7479323a" "assessment guidelines and instructions" %}} on how to use generative text tools to do it. Note that the assessment rubrics for the problem case were designed for the template provided above and may not be as reliable if you use a different template for your problem case.
