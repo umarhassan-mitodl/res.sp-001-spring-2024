@@ -23,14 +23,13 @@
     "website": "defining-real-world-problems-with-the-dis-method-describe-inquire-state"
   },
   "course_title": "Defining Real-World Problems With the D.I.S. Method: Describe, Inquire, State",
-  "hide_download": true,
+  "hide_download": false,
   "course_description": "This course introduces the D.I.S. method to structure and define real-world problems. The D.I.S., which stands for \u201cDescribe, Inquire, State,\" is a domain-agnostic method for structuring (or defining) ill-structured problems.",
   "department_numbers": [
     "SP"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.SP-001",
-  "hide_download_original": false,
   "learning_resource_types": [],
   "site_uid": "6bb3dc97-b231-4b97-a611-d7dd18fe997d",
   "site_short_id": "res.sp-001-spring-2024",

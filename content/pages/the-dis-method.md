@@ -5,7 +5,7 @@ draft: true
 title: The D.I.S. Method (not to publish)
 uid: c9746584-6879-4c3d-b90d-06ddf8845072
 ---
-Real-world problems are often ill-structured[<sup>\[1\]</sup>](https://ocw-studio.odl.mit.edu/sites/defining-real-world-problems-with-the-dis-method-describe-inquire-state/type/page/new/?size=0#_ftn1), which means they:
+Real-world problems are often ill-structured{{% resource_link "61ae3bcb-9cf8-4c58-9ea5-7dd971114ec1" "<sup>[1]</sup>" %}}, which means they:
 
 - Lack of a clear scope
 - Lack of clear criteria for what is a useful solution or desired endpoint; has no single ‘correct’ answer
@@ -27,7 +27,7 @@ Using this guide, you will learn how to:
     2. create a problem statement using a generative text tool, and
     3. assess the quality of your problem statement with or without using a generative text tool, based on a detailed assessment rubric.
 
-**If you would like to share your experience of the D.I.S. method with us, please fill out the short survey** [**here**](https://docs.google.com/forms/d/e/1FAIpQLScPjVlGe6lJFM8s2dbJsLP2jef1snx-7cI5bkH9pC0jCb9pSQ/viewform?usp=sf_link)**. Your feedback is important to us so we can continually improve.**
+**If you would like to share your experience of the D.I.S. method with us, please fill out the short survey** {{% resource_link "a94c210f-395f-4e48-8b76-9ef587862889" "**here**" %}}**. Your feedback is important to us so we can continually improve.**
 
 ## Step 1. Create Your Problem Description
 
@@ -67,13 +67,13 @@ The questions are:
 4. When does the problem occur for the PSG?
 5. Why does the problem occur for the PSG?
 
-***For optimal results, use the provided template for a problem case,*** [***here***](https://docs.google.com/document/d/1U374gzbrRehpbvij6iGd3XXX5GUefrjoQMigSIOAQT4/edit?usp=sharing)***.***
+***For optimal results, use the provided template for a problem case,*** {{% resource_link "54e6a963-2e0f-4fa4-a312-a25d581932d5" "***here***" %}}***.***
 
-For detailed guidelines of good practice on how to research your problem for the problem case, go [here](https://docs.google.com/document/d/1Gj9MO1CYfBLL3KK7OaryRnLCks3Cq4QO5G4wT89gxjE/edit?usp=sharing).
+For detailed guidelines of good practice on how to research your problem for the problem case, go {{% resource_link "7137da51-44c8-4c5d-a61b-fed4ea091d6b" "here" %}}.
 
-For an example of a problem case (full document), go [here](https://docs.google.com/document/d/1cqXES6s1J2TuFvW-3FRiF-S7XALz4kH-/edit?usp=sharing&ouid=111389324098950553084&rtpof=true&sd=true). Please note this is an example of a good problem case, not a perfect one.
+For an example of a problem case (full document), go {{% resource_link "c110936a-6054-4cb1-8db6-89ab8edce5d0" "here" %}}. Please note this is an example of a good problem case, not a perfect one.
 
-Once you complete your problem case, you can assess it for problem structuring (how well the case follows the D.I.S. method) and for problem understanding (how correct the case is). You can use a generative text tool like ChatGPT to assess problem structuring effectively, but not problem understanding, which requires an expert for assessment. For detailed assessment guidelines and instructions on how to use generative text tools to do it, go [here](https://docs.google.com/document/d/1xh_Lgee7DsFtPGnDTnYsXmmF0p-2OG6h9cQIZ7GaJ4E/edit?usp=sharing). Note that the assessment rubrics for the problem case were designed for the template provided above and may not be as reliable if you use a different template for your problem case.
+Once you complete your problem case, you can assess it for problem structuring (how well the case follows the D.I.S. method) and for problem understanding (how correct the case is). You can use a generative text tool like ChatGPT to assess problem structuring effectively, but not problem understanding, which requires an expert for assessment. For detailed assessment guidelines and instructions on how to use generative text tools to do it, go {{% resource_link "11cbd740-e9cf-4a0b-b046-b9dd7479323a" "here" %}}. Note that the assessment rubrics for the problem case were designed for the template provided above and may not be as reliable if you use a different template for your problem case.
 
 ## Step 3. Create Your Problem Statement
 
@@ -111,7 +111,7 @@ When working on projects with high creative potential, company engineers are neg
 
 Low-income residents of urban villages in China are negatively affected by (a) adverse health effects, (b) high cost of air conditioning, (c) high cost of building maintenance, and (d) social isolation. These negative effects are caused by (a) the urban heat island effect, (b) the lack of community, (c) the lack of vegetation, (d) the high building density in urban villages, and (e) the large distance of urban villages from cooling centers in the city. The problem occurs mainly inside residents’ homes during July and August, and in particular during days with heat-carrying winds.
 
-Once you’ve written your problem statement, you can assess it for problem structuring (how well the statement follows the D.I.S. method) and problem understanding (how correct the statement is), and improve it based on the results of these assessments. You can use a generative text tool like ChatGPT to assess problem structuring effectively, but not problem understanding, which requires an expert for assessment. For detailed assessment guidelines and instructions on how to use generative text tools to do it, go [here](https://docs.google.com/document/d/1GY0e41J5bzD8lipLHmatq8WsrjkFGO-rvHVaU8asjbA/edit?usp=sharing).
+Once you’ve written your problem statement, you can assess it for problem structuring (how well the statement follows the D.I.S. method) and problem understanding (how correct the statement is), and improve it based on the results of these assessments. You can use a generative text tool like ChatGPT to assess problem structuring effectively, but not problem understanding, which requires an expert for assessment. For detailed assessment guidelines and instructions on how to use generative text tools to do it, go {{% resource_link "395b3e4f-1d11-41bb-8fb9-4caf9bf98e22" "here" %}}.
 
 ## Step 3x. Optional: Use a Generative Text Tool to Create Your Problem Statement
 
@@ -159,4 +159,4 @@ Once you have an AI-generated summary for each of the five Ws, construct the fol
 
 The paragraph resulting from this prompt will be your AI-generated problem statement.
 
-[<sup>\[1\]</sup>](https://ocw-studio.odl.mit.edu/sites/defining-real-world-problems-with-the-dis-method-describe-inquire-state/type/page/new/?size=0#_ftnref1) [David H. Jonassen, “Toward a Design Theory of Problem Solving,” *Educational Technology Research and Development* 48, no. 4 (December 1, 2000): 63–85, https://doi.org/10.1007/BF02300500.](https://www.zotero.org/google-docs/?HFrHxX)
+{{% resource_link "29af6bc1-6ff3-44f8-86a6-fa5888dc1ec6" "<sup>[1]</sup>" %}} {{% resource_link "58663f81-c2d1-4506-950f-3f0f993add46" "David H. Jonassen, “Toward a Design Theory of Problem Solving,” *Educational Technology Research and Development* 48, no. 4 (December 1, 2000): 63–85, https://doi.org/10.1007/BF02300500." %}}
